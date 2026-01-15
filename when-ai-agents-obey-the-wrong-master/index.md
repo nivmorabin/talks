@@ -26,7 +26,7 @@ Whether you're building agents or securing them, this session will leave you wit
 
 ### Blog Post
 
-🚧 *Coming Soon*
+- [When AI Agents Obey the Wrong Master](https://medium.com/p/913aff17e3ed)
 
 ---
 
